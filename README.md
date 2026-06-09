@@ -49,6 +49,9 @@ gs_sers_mission_space/
 
 **Equipe:** Sideralis
 
+### Link do vídeopitch
+https://youtu.be/Q9x5RE6Vph4
+
 ### Integrantes
 
 * Erick Banhos de Castro — RM 572131
